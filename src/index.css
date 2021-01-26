@@ -22,3 +22,10 @@ code {
   margin: 0 auto;
   width: 600px;
 }
+.rm {
+  width: 1rem;
+  background: red;
+  border: none;
+  border-radius: 50%;
+  color: #fff;
+}

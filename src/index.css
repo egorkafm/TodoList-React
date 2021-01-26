@@ -29,3 +29,6 @@ code {
   border-radius: 50%;
   color: #fff;
 }
+.done {
+  text-decoration: line-through;
+}
